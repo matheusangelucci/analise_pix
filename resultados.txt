@@ -1,0 +1,30 @@
+MESES COM MAIS QUANTIDADE DE PIX:
+
+Mês 05: 11.0
+Mês 03: 10.0
+Mês 04: 10.0
+Mês 12: 9.0
+Mês 01: 8.0
+Mês 02: 8.0
+
+
+
+MESES COM MENOS QUANTIDADE DE PIX:
+
+Mês 07: 7.0
+Mês 08: 7.0
+Mês 09: 7.0
+Mês 10: 7.0
+Mês 11: 7.0
+Mês 06: 6.0
+
+
+
+Num período de quatro anos (2020 até 2024), o pix aumentou suas ocorrências em: 13404.36%
+Enquanto os meios de pagamento TED e Boleto, tiveram respectivamente, -81.2% e -52.11%
+
+PIX: 13404.36%
+TED: -81.2%
+BOLETO: -52.11%
+
+
